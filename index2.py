@@ -1,1 +1,1 @@
-atualizando arquivo index2.py
+meu primeiro sistema no GIT (alterado e att)
